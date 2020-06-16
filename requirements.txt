@@ -1,4 +1,0 @@
-aiogram
-requests
-bs4
-random
